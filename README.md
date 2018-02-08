@@ -16,7 +16,6 @@
 cd ~/.vim/bundle/YouCompleteMe  
 ./install.py --all
 ``
-
 ``cp ~/[repo path]/vimrc/.tern-config ~/``
 
 
