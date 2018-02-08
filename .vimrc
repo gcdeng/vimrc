@@ -59,7 +59,7 @@ inoremap jk <esc>
 
 " ---airline---
 let g:airline_solarized_bg='dark'
-" set encoding=utf-8                                                              
+set encoding=utf-8                                                              
 " set laststatus=2                                                                
 " set t_Co=256
 
