@@ -9,8 +9,8 @@
 - install plugin  
 ``vim +PluginInstall +qall``  
 
-if color scheme not found  
-``cp ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim ~/.vim/colors/``  
+  if color scheme not found  
+  ``cp ~/.vim/bundle/vim-colors-solarized/colors/solarized.vim ~/.vim/colors/``  
 
 - YCM  
 ``sudo apt-get install build-essential cmake``  
